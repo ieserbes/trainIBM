@@ -1,1 +1,2 @@
-#### The aim of this repository is to provide my hands-on solutions to IBM Data Science course's exercises.
+#### The aim of this repository is to provide my hands-on solutions to the exercises from the IBM Data Science course.
+@ Feb 2025
